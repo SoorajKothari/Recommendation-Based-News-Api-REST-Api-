@@ -1,0 +1,563 @@
+﻿Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Attempt to stop service NewsApi_Data_Fetch_Service.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Attempt to stop service NewsApi_Data_Fetch_Service.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Attempt to stop service NewsApi_Data_Fetch_Service.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Rolling back assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Restoring event log to previous state for source NewsApi_Data_Fetch_Service.
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Rolling back assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Restoring event log to previous state for source NewsApi_Data_Fetch_Service.
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Attempt to stop service NewsApi_Data_Fetch_Service.
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Warning: The source NewsApi_Data_Fetch_Service is not registered on the local machine.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API-csharp-master\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Rolling back assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Restoring event log to previous state for source NewsApi_Data_Fetch_Service.
+Uninstalling assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Removing EventLog source NewsApi_Data_Fetch_Service.
+Service NewsApi_Data_Fetch_Service is being removed from the system...
+Service NewsApi_Data_Fetch_Service was successfully removed from the system.
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Service NewsApi_Data_Fetch_Service has been successfully installed.
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Committing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Installing service NewsApi_Data_Fetch_Service...
+Creating EventLog source NewsApi_Data_Fetch_Service in log Application...
+Rolling back assembly 'F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.InstallLog
+   assemblypath = F:\Semester 7\Information Processing Techniques\Project\Api_Service\News-API\Service_NewsToday_Api\bin\Debug\Service_NewsToday_Api.exe
+Restoring event log to previous state for source NewsApi_Data_Fetch_Service.
